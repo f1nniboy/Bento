@@ -24,4 +24,4 @@ const printCards = () => {
   }
 };
 
-printCards();
+//printCards();
